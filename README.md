@@ -2,7 +2,7 @@
 Using an API to build a random quote generator with Twitter integration.
 
 
-#API
+*API :
 api will generate thosands of quotes. and then if you want to post that quote in twitter then you can do by just clicking on twitter butto.
 
 #design
